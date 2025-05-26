@@ -378,3 +378,7 @@ BenchmarkUnmarshalJSON/reflection/without_validation-12   45593 ns/op
 BenchmarkUnmarshalJSON/codegen/with_validation-12         45936 ns/op
 BenchmarkUnmarshalJSON/codegen/without_validation-12      45649 ns/op
 ```
+
+---
+
+![smart gopher](https://github.com/user-attachments/assets/1aad5421-d0d5-4985-ab5c-fb5df496df68)
